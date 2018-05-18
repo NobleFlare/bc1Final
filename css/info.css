@@ -1,0 +1,17 @@
+.working{
+    padding: 10px 15px;
+    display: inline-block;
+    background-color: yellow;
+    margin: 75px 0px 20px 50px;
+    box-shadow: 5px 5px 8px #000;
+    width: 30%;
+    
+}
+.pictures img{
+    width: 25%;
+    padding: 10px 10px;
+}
+.pictures{
+    margin: auto;
+    text-align: center;
+}
